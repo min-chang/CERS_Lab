@@ -13,8 +13,7 @@
     <li><a href="1.html">JavaScript</a></li>
   </ol>
   <h2>HTML</h2>
-  <p><a href="https://www.w3.org/TR/html5/" target="_blank" title="html5 speicification">Hypertext Markup Language (HTML)</a> is 
-  </p><p style="margin-top:45px;">HTML elements are the building blocks of HTML pages. With HTML constructs, images and other objects, such as interactive forms, may be embedded into the rendered page. It provides a means to create structured documents by denoting structural semantics for text such as headings, paragraphs, lists, links, quotes and other items. HTML elements are delineated by tags, written using angle brackets.
+  <p>동국대학교 화공생물공학과 청정에너지 및 반응분리 연구실 홈페이지 구축 
   </p>
 </body>
 </html>
